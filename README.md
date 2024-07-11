@@ -7,4 +7,6 @@ logout feature
 registration feature
 creating post feature 
 
+Created on XAMPP
+
 more to come soon..
