@@ -7,4 +7,4 @@ logout feature
 registration feature
 creating post feature 
 
-soon to come..
+more to come soon..
